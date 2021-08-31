@@ -7,7 +7,6 @@ That is,
 area of circle / area of sqaure = circle points / square points
 
 pi = 4 * (number of points in the circle / number of points in the square)
-
 ```
 
 ![Sample Plot](/sample_plot.png)
